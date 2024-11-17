@@ -1,5 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
+import NewItem from "./week-7/new_item";
+
 
 export default function Home() {
   return (
